@@ -1,0 +1,16 @@
+.form {
+  padding: 20px;
+  border: 1px solid #3d3d3d;
+}
+
+.phoneLabel {
+  margin-top: 15px;
+}
+.btnSubmit:hover,
+.btnSubmit:active {
+  background-color: #5a95f5;
+}
+
+.errorMessage {
+  color: red;
+}

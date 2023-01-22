@@ -1,0 +1,10 @@
+.wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
+.phonebook {
+  font-size: 45px;
+}
+.contacts {
+  font-size: 35px;
+}

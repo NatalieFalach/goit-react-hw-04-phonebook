@@ -1,0 +1,11 @@
+.btnDelete {
+  margin-left: 10px;
+}
+.btnDelete:hover,
+.btnDelete:focus {
+  background-color: #5a95f5;
+}
+.item {
+  font-size: 15px;
+  font-weight: 500;
+}
